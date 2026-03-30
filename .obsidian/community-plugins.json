@@ -14,5 +14,6 @@
   "obsidian-local-rest-api",
   "quickadd",
   "obsidian-git",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "obsidian-image-auto-upload-plugin"
 ]
