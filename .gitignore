@@ -21,3 +21,6 @@
 # 附件中的大文件
 90-附件/files/
 90-附件/audio/
+
+# Copilot 对话记录（不需要版本管理）
+copilot/
