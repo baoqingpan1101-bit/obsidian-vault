@@ -14,7 +14,8 @@
   "obsidian-local-rest-api",
   "quickadd",
   "obsidian-git",
-  "obsidian-day-planner",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-clipper"
+  "obsidian-clipper",
+  "actions-uri",
+  "obsidian-shortcut-launcher"
 ]
