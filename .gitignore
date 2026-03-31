@@ -11,8 +11,8 @@
 .obsidian/app.json
 
 # 个人私密内容（按需取消注释）
-# 20-日志/
-# 03-领域/财务规划/
+# 06-日记/
+# 04-记账/
 
 # Obsidian 插件二进制文件（由 Obsidian 自动下载）
 .obsidian/plugins/*/main.js
