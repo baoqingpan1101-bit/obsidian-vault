@@ -82,6 +82,6 @@ updated: 2026-03-30
 
 ## 工作日志规范
 
-- 路径：🧠 AI大脑/工作日志/YYYY-MM.md
+- 路径：🧠 AI大脑/工作日志/YYYY/YYYY-MM-DD.md
 - 每次操作追加一条记录，格式：
   `YYYY-MM-DD HH:mm | 操作类型 | 简述`
