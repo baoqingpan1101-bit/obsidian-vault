@@ -1,6 +1,6 @@
 ---
-title: 
-source_url: 
+title:
+source_url:
 source_clip: "[[05-剪藏/]]"
 date: {{date:YYYY-MM-DD}}
 category: 专业/技术/时事/个人成长/商业/其他
@@ -12,9 +12,9 @@ processed_by: 贾维斯
 （3句话以内）
 
 ## 核心观点
-- 
-- 
-- 
+-
+-
+-
 
 ## 可落地的结论
 （能直接用的判断或行动）
