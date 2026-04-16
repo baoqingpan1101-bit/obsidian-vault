@@ -35,6 +35,21 @@ updated: YYYY-MM-DD
 > 一句话描述这个主题的核心价值。
 ```
 
+## 标准结构（Compiled Truth + Timeline 架构）
+
+```
+Above the line（Compiled Truth）：
+  - 主题定义
+  - 知识结构（核心理论/方法论/工具）
+  - 活跃问题
+  ↓ 新资料到达时 REWRITE
+Below the line（Timeline / Append-only）：
+  - 核心资料（追加引用）
+  - 最近更新（追加）
+  - 我的关注点
+  ↓ 追加记录，保持历史可追溯
+```
+
 ## 标准结构
 
 ```markdown

@@ -36,6 +36,20 @@ cross_refs:  # 相关实体（手动维护）
 ---
 ```
 
+## 标准结构（Compiled Truth + Timeline 架构）
+
+```
+Above the line（Compiled Truth）：
+  - 一句话定义
+  - 我的理解
+  - 来源与引用
+  ↓ 不变部分，新资料到达时 REWRITE
+Below the line（Timeline / Append-only）：
+  - 相关链接（[[wikilinks]]）
+  - 更新日志（仅追加，不修改历史）
+  ↓ 追加部分，永不重写历史
+```
+
 ## 标准结构
 
 ```markdown
